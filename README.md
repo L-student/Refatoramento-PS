@@ -29,3 +29,5 @@ Recorrentemente, usei muitos if's repetidos por ser um vício ao programar.
 
 ![image](https://user-images.githubusercontent.com/61876988/155207593-0270eb35-999e-41cf-bf2d-00905322798a.png)
 
+Além desses dois citados a cima, também foram implementados alguns outros como o Builder.
+Uma nova diferença nesse projeto do passado é que o código foi revisado e implemntado quase que por completo uma GUI.
